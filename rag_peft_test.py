@@ -12,7 +12,7 @@ from langchain.embeddings import HuggingFaceEmbeddings
 from huggingface_hub import login
 
 # PDF 파일 로드 및 분할
-loader = PyPDFLoader("data\컴퓨터소프트웨어학과.pdf")
+loader = PyPDFLoader("data/컴퓨터소프트웨어학과.pdf")
 pages = loader.load_and_split()
 
 # 텍스트 분할
