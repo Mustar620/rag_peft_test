@@ -12,4 +12,4 @@ tiktoken==0.7.0
 sentence-transformers==2.2.2
 pillow==9.4.0
 tokenizers==0.13.3
-pydantic==1.10.2  
+pydantic==2.7.4
