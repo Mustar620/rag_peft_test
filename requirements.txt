@@ -1,11 +1,11 @@
 streamlit==1.25.0
 langchain==0.3.6
 huggingface-hub==0.26.2
-chromadb==0.3.21  
+chromadb==0.5.17
 pypdf==5.1.0
 transformers==4.30.0
 torch==2.3.1
-fastapi==0.95.2 
+fastapi==0.100.0
 uvicorn==0.22.0
 requests==2.31.0
 tiktoken==0.7.0
