@@ -5,13 +5,13 @@ langchain==0.3.6
 huggingface-hub==0.26.2
 chromadb==0.5.17
 pypdf==5.1.0
-transformers==4.30.0 
-torch==2.0.1 
+transformers==4.30.0
+torch==2.3.0 
 tiktoken==0.7.0
 loguru==0.7.2
 langchain-text-splitters==0.2.0
 langchainhub==0.1.21
-sentence-transformers==2.2.2
+sentence-transformers==2.2.2  
 faiss-cpu==1.8.0
 fastapi==0.95.2
 uvicorn==0.22.0
