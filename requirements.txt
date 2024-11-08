@@ -1,6 +1,6 @@
 streamlit==1.25.0
 langchain==0.3.6
-langchain-core==0.3.14
+langchain-core==0.3.14  
 langchain-community==0.3.0  
 huggingface-hub==0.26.2
 chromadb==0.5.17
@@ -11,5 +11,5 @@ fastapi==0.95.2
 uvicorn==0.22.0
 requests==2.31.0
 tiktoken==0.7.0
-pydantic>=2.7.4,<3.0.0
+pydantic>=2.7.4,<3.0.0 
 sentence-transformers==2.2.2
